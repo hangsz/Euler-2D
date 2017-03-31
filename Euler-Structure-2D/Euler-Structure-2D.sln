@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{6989167D-11E4-40FE-8C1A-2192A86A7E90}") = "Euler-Structure-2D", "Euler-Structure-2D\Euler-Structure-2D.vfproj", "{3900DCA5-4CA1-4BBD-8AC3-9A8486444F25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3900DCA5-4CA1-4BBD-8AC3-9A8486444F25}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3900DCA5-4CA1-4BBD-8AC3-9A8486444F25}.Debug|Win32.Build.0 = Debug|Win32
+		{3900DCA5-4CA1-4BBD-8AC3-9A8486444F25}.Release|Win32.ActiveCfg = Release|Win32
+		{3900DCA5-4CA1-4BBD-8AC3-9A8486444F25}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
